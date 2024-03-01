@@ -25,11 +25,7 @@ export default [
       "After 2 minutes, add the tomato pieces, salt, pepper and your other spices.",
       "The sauce will be done once the spaghetti are.",
       "Feel free to add some cheese on top of the finished dish.",
-    ],
-    false,
-    true,
-    true,
-    true
+    ]
   ),
 
   new Meal(
@@ -51,11 +47,7 @@ export default [
       "Butter one side of the white bread",
       "Layer ham, the pineapple and cheese on the white bread",
       "Bake the toast for round about 10 minutes in the oven at 200°C",
-    ],
-    false,
-    false,
-    false,
-    false
+    ]
   ),
 
   new Meal(
@@ -80,11 +72,7 @@ export default [
       "Quickly fry the buns for c. 1 minute on each side",
       "Bruch buns with ketchup",
       "Serve burger with tomato, cucumber and onion",
-    ],
-    false,
-    false,
-    false,
-    true
+    ]
   ),
 
   new Meal(
@@ -113,11 +101,7 @@ export default [
       "Make sure to toss the pan regularly so that the schnitzels are surrounded by oil and the crumbing becomes ‘fluffy’.",
       "Remove, and drain on kitchen paper. Fry the parsley in the remaining oil and drain.",
       "Place the schnitzels on awarmed plate and serve garnishedwith parsley and slices of lemon.",
-    ],
-    false,
-    false,
-    false,
-    false
+    ]
   ),
 
   new Meal(
@@ -145,11 +129,7 @@ export default [
       "Process mustard, vinegar and olive oil into a dessing",
       "Prepare the salad",
       "Add salmon cubes and dressing",
-    ],
-    true,
-    false,
-    true,
-    true
+    ]
   ),
 
   new Meal(
@@ -178,11 +158,7 @@ export default [
       "Whip the cream and lift it under die orange mass",
       "Cool down again for at least 4 hours",
       "Serve with orange peel",
-    ],
-    true,
-    false,
-    true,
-    false
+    ]
   ),
 
   new Meal(
@@ -207,11 +183,7 @@ export default [
       "Make a well in the center and pour in the milk, egg and melted butter; mix until smooth.",
       "Heat a lightly oiled griddle or frying pan over medium high heat.",
       "Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake. Brown on both sides and serve hot.",
-    ],
-    true,
-    false,
-    true,
-    false
+    ]
   ),
 
   new Meal(
@@ -238,11 +210,7 @@ export default [
       "Add chicken breast + 250ml of water and cook everything for 10 minutes",
       "Add coconut milk",
       "Serve with rice",
-    ],
-    true,
-    false,
-    false,
-    true
+    ]
   ),
 
   new Meal(
@@ -285,11 +253,7 @@ export default [
       "Add the rest of the egg whites; gently fold into the chocolate with a spatula, lifting from the bottom and folding over.",
       "Stop mixing after the egg white disappears. Divide mixture between 2 prepared ramekins. Place ramekins on prepared baking sheet.",
       "Bake in preheated oven until scuffles are puffed and have risen above the top of the rims, 12 to 15 minutes.",
-    ],
-    true,
-    false,
-    true,
-    false
+    ]
   ),
   new Meal(
     "m10",
@@ -314,10 +278,6 @@ export default [
       "Halve the tomatoes",
       "Mix with asparagus, salad and dressing",
       "Serve with Baguette",
-    ],
-    true,
-    true,
-    true,
-    true
+    ]
   ),
 ];

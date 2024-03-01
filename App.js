@@ -59,7 +59,16 @@ export default function App() {
           options={{ headerShown: false, title: "Categories" }}
         />
         <NativeStack.Screen name="meals" component={Meals} />
-        <NativeStack.Screen name="meal-details" component={MealDetails} />
+        <NativeStack.Screen
+          name="meal-details"
+          component={MealDetails}
+          options={{
+            title: "About the Meal",
+            headerRight: ({ color, size }) => (
+              <Ionicons name="star" color={color} size={20} />
+            ),
+          }}
+        />
       </NativeStack.Navigator>
     </NavigationContainer>
   );
