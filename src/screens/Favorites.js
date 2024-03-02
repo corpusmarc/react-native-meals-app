@@ -1,17 +1,11 @@
-import { StyleSheet, View, Text } from "react-native";
+import SafeArea from "../components/SafeArea";
+
+import NoData from "../components/NoData";
 
 export default function Favorites() {
   return (
-    <View style={styles.container}>
-      <Text>Favorites</Text>
-    </View>
+    <SafeArea>
+      <NoData />
+    </SafeArea>
   );
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    justifyContent: "center",
-    alignItems: "center",
-  },
-});
